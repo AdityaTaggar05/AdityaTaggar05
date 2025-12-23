@@ -19,7 +19,7 @@ new-year-resolution:
   - "Get more sleep!!!"
 ```
 
----
+<br><br>
 
 # 🚀 &nbsp;My Personal Toolbelt
 <p align="center">
@@ -43,4 +43,12 @@ new-year-resolution:
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytorch/pytorch-original.svg" width="45" height="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redis/redis-original.svg" width="45" height="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="45" height="45"/>
-</p>
+</p><br><br>
+
+# Github Stats
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats-vercel-ashy.vercel.app/api?username=AdityaTaggar05&theme=nord&hide=stars&rank_icon=github" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats-vercel-ashy.vercel.app/api/top-langs/?username=AdityaTaggar05&layout=compact&theme=nord&langs_count=5" />
+</a>
