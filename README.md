@@ -47,7 +47,7 @@ new-year-resolution:
 
 # Github Stats
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 width=420px align="center" src="https://github-readme-stats-vercel-ashy.vercel.app/api?username=AdityaTaggar05&theme=nord&hide=stars&rank_icon=github" />
+  <img height=200 width=435px align="center" src="https://github-readme-stats-vercel-ashy.vercel.app/api?username=AdityaTaggar05&theme=nord&hide=stars&rank_icon=github&show_icons=true" />
 </a>
 <a href="https://git.io/streak-stats">
   <img height=170 width=400px align="center" src="https://streak-stats.demolab.com/?user=AdityaTaggar05&theme=nord" />
