@@ -3,8 +3,8 @@
 name: "Aditya Taggar"
 profession: "Student & Developer"
 ongoing-projects:
-  - name: "Redis Clone in GoLang"
-    description: "Building a high-performance Redis clone to understand distributed systems and key-value stores."
+  - name: "godis"
+    description: "Building a high-performance Redis clone in Go to understand distributed systems and key-value stores."
   - name: "Annora"
     description: "A mystery project which shall reveal itself with time."
 learning:
