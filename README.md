@@ -8,7 +8,6 @@ ongoing-projects:
   - name: "Annora"
     description: "A mystery project which shall reveal itself with time."
 learning:
-  - "Deep Learning & Computer Vision: Exploring AI models and their applications in real-world scenarios."
   - "Server-Side Architectures: Understanding scalable systems with tools like Redis, Kafka, and more."
   - "Blockchain: Exploring decentralised systems, smart contracts, and cryptocurrencies."
 hobbies:
